@@ -8,6 +8,8 @@ Pete Jensen, specializes in software architecture and works for Harvard Manageme
 
 In the sixth grade, Pete demonstrated an exceptional aptitude for computers, prompting his teacher to recommend a computer camp at MIT. This early exposure to technology sparked Pete's passion for the field and led him to an internship in high school. That experience set the stage for Pete's software engineering studies at Acadia University in the beautiful maritime provinces of Canada.
 
+![Early Days](https://github.com/PJensen/PJensen/blob/main/images/1991.jpg)
+
 #### Professional Skills
 
 Professionally, Pete is known for his creative problem-solving skills, consistently developing innovative solutions to complex software development challenges. His empathetic nature allows him to succeed in user-centered design by connecting with users and understanding their needs. Pete is a strong team player who contributes to a collaborative work environment through his effective listening and communication skills. He also maintains a firm commitment to ethics, ensuring that the software he develops is responsible and sustainable.
