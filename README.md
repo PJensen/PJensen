@@ -1,22 +1,15 @@
-### Hi there 👋
+# PJensen
 
-### About me
+I am seasoned software architect currently contributing my skills and expertise to Harvard Management Company. My unique blend of creativity and technical acumen has enabled me to excel in my career, delivering cutting-edge software solutions.
 
-Pete Jensen, specializes in software architecture and works for Harvard Management Company. With a unique blend of creativity and technical expertise, Pete excels in his career.
+## Early Interest in Computers
+By sixth grade, I discovered I had an aptitude for computers, which led my teacher to recommend a computer camp at MIT. This early immersion in technology ignited a passion that set me on the path to my future career. This journey took me to an internship during high school and then to software engineering studies at Acadia University, situated amidst the picturesque maritime provinces of Canada.
 
-#### Early Interest in Computers
+## Professional Skills
+I am known for my creative problem-solving skills, frequently devising innovative solutions to complex software development challenges. My empathetic nature has been instrumental in my success in user-centered design—I thrive on connecting with users and understanding their needs. As a strong team player, I foster a collaborative work environment by actively listening and communicating effectively. Furthermore, I maintain a steadfast commitment to ethical software development, ensuring that my work is responsible, sustainable, and beneficial.
 
-In the sixth grade, Pete demonstrated an exceptional aptitude for computers, prompting his teacher to recommend a computer camp at MIT. This early exposure to technology sparked Pete's passion for the field and led him to an internship in high school. That experience set the stage for Pete's software engineering studies at Acadia University in the beautiful maritime provinces of Canada.
-
-![Early Days](https://github.com/PJensen/PJensen/blob/main/images/1991.jpg)
-
-#### Professional Skills
-
-Professionally, Pete is known for his creative problem-solving skills, consistently developing innovative solutions to complex software development challenges. His empathetic nature allows him to succeed in user-centered design by connecting with users and understanding their needs. Pete is a strong team player who contributes to a collaborative work environment through his effective listening and communication skills. He also maintains a firm commitment to ethics, ensuring that the software he develops is responsible and sustainable.
-
-#### Personal Interests
-
-Pete has diverse interests outside of work, including skiing, painting, sculpture, and music, with a particular focus on playing the drums. His passion for gardening further showcases his creative spirit. Pete's unique combination of creativity, love, and expertise has enabled him to make a positive impact in his workplace and among the people he interacts with, both professionally and through his pursuits.
+## Personal Interests
+When not immersed in code, you can find me exploring a range of interests, from skiing and painting to sculpting and playing the drums. My passion for gardening is a testament to my creative spirit and love for nature. This unique combination of creativity and expertise has allowed me to make a meaningful impact in my workplace and the communities I engage with, both professionally and personally.
 
 <!--
 **PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
