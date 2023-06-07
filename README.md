@@ -1,15 +1,12 @@
 # PJensen
 
-I am seasoned software architect currently contributing my skills and expertise to Harvard Management Company. My unique blend of creativity and technical acumen has enabled me to excel in my career, delivering cutting-edge software solutions.
+I'm a software architect currently working with Harvard Management Company. My background combines technical knowledge with creativity, allowing me to contribute to diverse software solutions.
 
-## Early Interest in Computers
-By sixth grade, I discovered I had an aptitude for computers, which led my teacher to recommend a computer camp at MIT. This early immersion in technology ignited a passion that set me on the path to my future career. This journey took me to an internship during high school and then to software engineering studies at Acadia University, situated amidst the picturesque maritime provinces of Canada.
+I discovered my interest in computers in grade school, an interest that was nurtured at an MIT summer camp. My path led me to a high school internship and eventually to studying software engineering at Canada's Acadia University.
 
-## Professional Skills
-I am known for my creative problem-solving skills, frequently devising innovative solutions to complex software development challenges. My empathetic nature has been instrumental in my success in user-centered design—I thrive on connecting with users and understanding their needs. As a strong team player, I foster a collaborative work environment by actively listening and communicating effectively. Furthermore, I maintain a steadfast commitment to ethical software development, ensuring that my work is responsible, sustainable, and beneficial.
+I enjoy problem-solving and approach software development with an empathetic mindset, focusing on user needs. I value teamwork, communication, and ethical software development.
 
-## Personal Interests
-When not immersed in code, you can find me exploring a range of interests, from skiing and painting to sculpting and playing the drums. My passion for gardening is a testament to my creative spirit and love for nature. This unique combination of creativity and expertise has allowed me to make a meaningful impact in my workplace and the communities I engage with, both professionally and personally.
+Outside work, my hobbies include skiing, painting, sculpting, drumming, and gardening. Each enriches my life and, in their own way, my work too.
 
 <!--
 **PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
