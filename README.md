@@ -1,12 +1,16 @@
 # PJensen
 
-I'm a software architect currently working with Harvard Management Company. My background combines technical knowledge with creativity, allowing me to contribute to diverse software solutions.
+I’m a software architect at Harvard Management Company, where I design and build systems that bridge human insight with machine intelligence. My background blends technical depth with creative exploration, and I tend to approach complex problems from both angles — structure and imagination.
 
-I discovered my interest in computers in grade school, an interest that was nurtured at an MIT summer camp. My path led me to a high school internship and eventually to studying software engineering at Canada's Acadia University.
+My fascination with computers started early, sparked by a summer at an MIT tech camp and deepened through years of hands-on projects that carried me into software engineering at Acadia University. Since then, my work has evolved from building tools to shaping platforms that support collaboration and clarity at scale.
 
-I enjoy problem-solving and approach software development with an empathetic mindset, focusing on user needs. I value teamwork, communication, and ethical software development.
+I care deeply about craftsmanship, clarity, and empathy in software — not just how things work, but how they feel to use and maintain. I believe good systems should make their users feel capable, not constrained.
 
-Outside work, my hobbies include skiing, painting, sculpting, drumming, and gardening. Each enriches my life and, in their own way, my work too.
+Outside of work, I’m drawn to the tactile: skiing, painting, sculpting, drumming, and gardening. Each one reminds me that creativity and precision don’t oppose each other — they refine each other.
+
+🔭 I’m currently working on:
+
+- JS-Hack, a zero-dependency, browser-native roguelike engine built around a custom ECS architecture.
 
 <!--
 **PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
