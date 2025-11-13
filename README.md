@@ -10,7 +10,7 @@ Outside of work, I’m drawn to the tactile: skiing, painting, sculpting, drummi
 
 🔭 I’m currently working on:
 
-- JS-Hack, a zero-dependency, browser-native roguelike engine built around a custom ECS architecture.
+- ecs-js - an entity component system written in pure JavaScript.
 
 <!--
 **PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
