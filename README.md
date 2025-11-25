@@ -10,7 +10,22 @@ Outside of work, I’m drawn to the tactile: skiing, painting, sculpting, drummi
 
 🔭 I’m currently working on:
 
-- ecs-js - an entity component architecture written in pure JavaScript.
+ecs-js
+A tiny, deterministic Entity–Component–System written in pure JavaScript.
+
+Drop a script tag or import the module and you get:
+
+- Deterministic World with seeded RNG and no framework lock-in.
+- Phase-agnostic systems + `composeScheduler()` so you define your own pipeline.
+- Snapshot/restore helpers for time travel, replays, and “what if?” scenarios.
+- Archetypes/prefabs for building entities from reusable recipes.
+- Optional extras: hierarchy, scripting, cross-world refs, raf loops.
+
+Use it for:
+- simulations (economies, fisheries, epidemics, factories)
+- complex UIs with lots of interacting pieces
+- games, of course – but it’s not *just* a game engine core.
+
 
 <!--
 **PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
