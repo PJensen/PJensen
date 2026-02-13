@@ -40,5 +40,11 @@ I publish on [Substack](https://pjensen.substack.com/) — essays on system arch
 ---
 
 <p align="center">
+<a href="https://en.wikipedia.org/wiki/Pi_(film)"><img src="images/pi_the_movie.jpg" width="120" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Hackers_%26_Painters"><img src="images/hackers_and_painters_book_cover.jpg" width="120" /></a>
+</p>
+
+<p align="center">
 <img src="images/conways_glider.png" width="32" />
 </p>
