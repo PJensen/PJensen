@@ -1,43 +1,44 @@
 # PJensen
 
-I’m a software architect at Harvard Management Company, where I design and build systems that bridge human insight with machine intelligence. My background blends technical depth with creative exploration, and I tend to approach complex problems from both angles — structure and imagination.
+Software architect at Harvard Management Company. I design systems that make institutional-scale portfolio management transparent and navigable — bridging human judgment with structured data where the stakes are real.
 
-My fascination with computers started early, sparked by a summer at an MIT tech camp and deepened through years of hands-on projects that carried me into software engineering at Acadia University. Since then, my work has evolved from building tools to shaping platforms that support collaboration and clarity at scale.
+<img src="images/1985.jpg" width="160" align="right" />
 
-I care deeply about craftsmanship, clarity, and empathy in software — not just how things work, but how they feel to use and maintain. I believe good systems should make their users feel capable, not constrained.
+I've been writing code for thirty years. BASIC in fourth grade, C by sixth, inline x86 assembly by sixteen — plotting pixels to `0xA000` on an 80386 using shift-add multiplication picked up from a book I found at the Salvation Army. The reference books are still in the garage.
 
-Outside of work, I’m drawn to the tactile: skiing, painting, sculpting, drumming, and gardening. Each one reminds me that creativity and precision don’t oppose each other — they refine each other.
+Since then: Acadia University (CS), cross-platform systems across GNU/Linux, Win32, HP-UX, and Solaris, sixteen years of C#/.NET, and a long arc through Python, JavaScript, and whatever the problem demands. I care about the layer underneath — the primitives, the state model, the thing hiding below the abstraction everyone's excited about.
 
-🔭 I’m currently working on:
+I also paint, sculpt, ski, drum, and grow rare medicinal plants. My grandmother taught me to work with my hands across every medium. Each one reinforces the same principle: precision and creativity aren't opposites — they sharpen each other.
 
-ecs-js
-A tiny, deterministic Entity–Component–System written in pure JavaScript.
+---
 
-Drop a script tag or import the module and you get:
+### Projects
 
-- Deterministic World with seeded RNG and no framework lock-in.
-- Phase-agnostic systems + `composeScheduler()` so you define your own pipeline.
-- Snapshot/restore helpers for time travel, replays, and “what if?” scenarios.
-- Archetypes/prefabs for building entities from reusable recipes.
-- Optional extras: hierarchy, scripting, cross-world refs, raf loops.
+**[ecs-js](https://github.com/PJensen/ecs-js)** — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
 
-Use it for:
-- simulations (economies, fisheries, epidemics, factories)
-- complex UIs with lots of interacting pieces
-- games, of course – but it’s not *just* a game engine core.
+- Caller-driven ticking — the library has no opinion about time
+- Phase-agnostic system scheduling with topological ordering (`before`/`after` declarations)
+- Seeded PRNG (mulberry32) + deferred structural mutations = full determinism
+- Snapshot/restore for time travel, replays, and branching
+- Archetypes, hierarchy management, cross-world entity references
+- Query builder with `where`, `project`, `orderBy`, `offset`, `limit`
+- Entity-local scripting via handler tables with event routing and error capture
+- Storage flexibility: `map` for clarity, `soa` for throughput
 
+Built for simulations, agent-driven systems, and complex interactive state — not just games, though it handles those too.
 
-<!--
-**PJensen/PJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[js-hack](https://github.com/PJensen/js-hack)** — A spiritual successor to NetHack, built on ecs-js. Roguelike mechanics as an architectural stress test.
 
-Here are some ideas to get you started:
+**[DotNetHack](https://github.com/PJensen/DotNetHack)** — The earlier attempt — a .NET roguelike from 2012 that started the thread.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Writing
+
+I publish on [Substack](https://pjensen.substack.com/) — essays on system architecture, AI substrate problems, institutional dynamics, and the practice of looking underneath.
+
+---
+
+<p align="center">
+<img src="images/conways_glider.png" width="32" />
+</p>
