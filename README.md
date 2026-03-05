@@ -27,9 +27,15 @@ I also paint, sculpt, ski, drum, and grow rare medicinal plants. My grandmother 
 
 Built for simulations, agent-driven systems, and complex interactive state — not just games, though it handles those too.
 
-**[js-hack](https://github.com/PJensen/js-hack)** — A spiritual successor to NetHack, built on ecs-js. Roguelike mechanics as an architectural stress test.
+#### Other Projects
+
+**[JSHack](https://github.com/PJensen/js-hack)** — A spiritual successor to NetHack, built on ecs-js. Roguelike mechanics as an architectural stress test.
 
 **[DotNetHack](https://github.com/PJensen/DotNetHack)** — The earlier attempt — a .NET roguelike from 2012 that started the thread.
+
+**[Deity-JS](https://github.com/PJensen/Deity-js)** — A headless mood engine for games, simulations, and operating systems.
+
+**[Pixel_Buzz_Box](https://github.com/PJensen/Pixel_Buzz_Box)** — A real-time arcade survival game for the Raspberry Pi Pico featuring a bee collecting pollen in an infinite procedurally-generated world.
 
 ---
 
