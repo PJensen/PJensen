@@ -1,47 +1,58 @@
 # PJensen
 
-Software architect at Harvard Management Company. I design systems that make institutional-scale portfolio management transparent and navigable — bridging human judgment with structured data where the stakes are real.
+Software architect and AI systems builder focused on collapsing the distance between idea and execution. I design AI-native development environments, simulation substrates, and governed application systems that allow complex software to emerge quickly, safely, and iteratively.
 
-<img src="images/1985.jpg" width="160" align="right" />
+<img src="images/1985.jpg" width="160" align="right" />My work tends to live underneath the visible layer — the primitives, the state models, the constraints that shape what becomes possible. I’m interested in systems where software is synthesized rather than hand-assembled, where iteration is cheap, and where understanding compounds faster than code.
 
-I've been writing code for thirty years. BASIC in fourth grade, C by sixth, inline x86 assembly by sixteen — plotting pixels to `0xA000` on an 80386 using shift-add multiplication picked up from a book I found at the Salvation Army. The reference books are still in the garage.
+That thread runs through everything I build: deterministic simulation engines, agent-driven architectures, roguelike worlds used as system stress tests, and development environments designed to translate emerging AI capabilities into practical workflows.
 
-Since then: Acadia University (CS), cross-platform systems across GNU/Linux, Win32, HP-UX, and Solaris, sixteen years of C#/.NET, and a long arc through Python, JavaScript, and whatever the problem demands. I care about the layer underneath — the primitives, the state model, the thing hiding below the abstraction everyone's excited about.
+I care about substrate. The layer below abstraction. The mechanics that make complex systems navigable.
 
-I also paint, sculpt, ski, drum, and grow rare medicinal plants. My grandmother taught me to work with my hands across every medium. Each one reinforces the same principle: precision and creativity aren't opposites — they sharpen each other.
+Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants. Each discipline reinforces the same idea: precision and creativity are not opposites — they sharpen each other.
 
----
-
-### Projects
-
-**[ecs-js](https://github.com/PJensen/ecs-js)** — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
-
-- Caller-driven ticking — the library has no opinion about time
-- Phase-agnostic system scheduling with topological ordering (`before`/`after` declarations)
-- Seeded PRNG (mulberry32) + deferred structural mutations = full determinism
-- Snapshot/restore for time travel, replays, and branching
-- Archetypes, hierarchy management, cross-world entity references
-- Query builder with `where`, `project`, `orderBy`, `offset`, `limit`
-- Entity-local scripting via handler tables with event routing and error capture
-- Storage flexibility: `map` for clarity, `soa` for throughput
-
-Built for simulations, agent-driven systems, and complex interactive state — not just games, though it handles those too.
-
-#### Other Projects
-
-**[JSHack](https://github.com/PJensen/js-hack)** — A spiritual successor to NetHack, built on ecs-js. Roguelike mechanics as an architectural stress test.
-
-**[DotNetHack](https://github.com/PJensen/DotNetHack)** — The earlier attempt — a .NET roguelike from 2012 that started the thread.
-
-**[Deity-JS](https://github.com/PJensen/Deity-js)** — A headless mood engine for games, simulations, and operating systems.
-
-**[Pixel_Buzz_Box](https://github.com/PJensen/Pixel_Buzz_Box)** — A real-time arcade survival game for the Raspberry Pi Pico featuring a bee collecting pollen in an infinite procedurally-generated world.
 
 ---
 
-### Writing
+Projects
 
-I publish on [Substack](https://pjensen.substack.com/) — essays on system architecture, AI substrate problems, institutional dynamics, and the practice of looking underneath.
+ecs-js — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
+
+Caller-driven ticking — the library has no opinion about time
+
+Phase-agnostic system scheduling with topological ordering (before/after)
+
+Seeded PRNG + deferred structural mutation = deterministic simulation
+
+Snapshot / restore for replay, branching, and time travel
+
+Archetypes, hierarchy management, cross-world references
+
+Query builder with where, project, orderBy, offset, limit
+
+Entity-local scripting via handler tables
+
+Storage flexibility: map for clarity, soa for throughput
+
+
+Built for simulations, agent systems, and complex interactive state.
+
+Other Projects
+
+JSHack — A roguelike world used as an architectural stress test for agent-driven systems and simulation design.
+
+DotNetHack — Earlier roguelike experiment exploring emergent mechanics and system-driven gameplay.
+
+Deity-JS — A headless mood and influence engine for simulations and games.
+
+Pixel_Buzz_Box — A real-time survival game for Raspberry Pi Pico in an infinite procedural world.
+
+
+---
+
+Writing
+
+I publish on Substack — essays on AI-native development, simulation architecture, substrate design, and systems thinking.
+
 
 ---
 
@@ -49,8 +60,6 @@ I publish on [Substack](https://pjensen.substack.com/) — essays on system arch
 <a href="https://en.wikipedia.org/wiki/Pi_(film)"><img src="images/pi_the_movie.jpg" width="120" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Hackers_%26_Painters"><img src="images/hackers_and_painters_book_cover.jpg" width="120" /></a>
-</p>
-
-<p align="center">
+</p><p align="center">
 <img src="images/conways_glider.png" width="32" />
 </p>
