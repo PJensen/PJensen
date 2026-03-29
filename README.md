@@ -13,7 +13,7 @@ Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants.
 
 ---
 
-Projects
+## Projects
 
 ecs-js — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
 
@@ -36,7 +36,7 @@ Storage flexibility: map for clarity, soa for throughput
 
 Built for simulations, agent systems, and complex interactive state.
 
-Other Projects
+## Other Projects
 
 JSHack — A roguelike world used as an architectural stress test for agent-driven systems and simulation design.
 
