@@ -10,7 +10,6 @@ I care about substrate. The layer below abstraction. The mechanics that make com
 
 Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants. Each discipline reinforces the same idea: precision and creativity are not opposites — they sharpen each other.
 
-
 ---
 
 ## Projects
