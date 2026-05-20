@@ -16,23 +16,15 @@ Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants.
 
 ecs-js — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
 
-Caller-driven ticking — the library has no opinion about time
-
+- Caller-driven ticking — the library has - no opinion about time
 Phase-agnostic system scheduling with topological ordering (before/after)
-
-Seeded PRNG + deferred structural mutation = deterministic simulation
-
-Snapshot / restore for replay, branching, and time travel
-
-Archetypes, hierarchy management, cross-world references
-
-Query builder with where, project, orderBy, offset, limit
-
-Entity-local scripting via handler tables
-
-Storage flexibility: map for clarity, soa for throughput
-
-
+- Seeded PRNG + deferred structural mutation = deterministic simulation
+- Snapshot / restore for replay, branching, and time travel
+- Archetypes, hierarchy management, cross-world references
+- Query builder with where, project, orderBy, offset, limit
+- Entity-local scripting via handler tables
+- Storage flexibility: map for clarity, soa for throughput
+  
 Built for simulations, agent systems, and complex interactive state.
 
 ## Other Projects
