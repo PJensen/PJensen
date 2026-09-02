@@ -14,28 +14,13 @@ Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants.
 
 ## Projects
 
-ecs-js — A tiny, deterministic Entity–Component–System core in pure JavaScript. Zero dependencies. No build step. Fourteen source files.
-
-- Caller-driven ticking — the library has - no opinion about time
-Phase-agnostic system scheduling with topological ordering (before/after)
-- Seeded PRNG + deferred structural mutation = deterministic simulation
-- Snapshot / restore for replay, branching, and time travel
-- Archetypes, hierarchy management, cross-world references
-- Query builder with where, project, orderBy, offset, limit
-- Entity-local scripting via handler tables
-- Storage flexibility: map for clarity, soa for throughput
-  
-Built for simulations, agent systems, and complex interactive state.
-
-## Other Projects
-
-JSHack — A roguelike world used as an architectural stress test for agent-driven systems and simulation design.
-
-DotNetHack — Earlier roguelike experiment exploring emergent mechanics and system-driven gameplay.
-
-Deity-JS — A headless mood and influence engine for simulations and games.
-
-Pixel_Buzz_Box — A real-time survival game for Raspberry Pi Pico in an infinite procedural world.
+- [ecs-js](https://github.com/PJensen/ecs-js) — Deterministic, zero-dependency Entity–Component–System architecture for JavaScript.
+- [blackstem](https://github.com/PJensen/blackstem) — Inspectable compiler pipeline that turns bounded language into executable tool plans.
+- [reflect-js-mcp](https://github.com/PJensen/reflect-js-mcp) — MCP server for structural reflection, symbol lookup, dependency graphs, and architectural analysis.
+- [Signal Control Tower](https://github.com/PJensen/signal-control-tower) — Local Signal-to-Codex work dispatcher with durable queues, validation, and artifact delivery.
+- [JSHack](https://github.com/PJensen/JSHack) — Mobile-first browser roguelike and living systems-design laboratory.
+- [Graffiti](https://github.com/PJensen/grafitti) — Real-time collaborative drawing system built around exact scenes, spatial data, and durable world state.
+- [Pixel Buzz Box](https://github.com/PJensen/Pixel_Buzz_Box) — Raspberry Pi Pico arcade survival game set in an infinite procedural world.
 
 
 ---
