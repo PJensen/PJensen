@@ -15,11 +15,11 @@ Outside of software, I paint, sculpt, ski, drum, and grow rare medicinal plants.
 ## Projects
 
 - [ecs-js](https://github.com/PJensen/ecs-js) — Deterministic, zero-dependency Entity–Component–System architecture for JavaScript.
-- [blackstem](https://github.com/PJensen/blackstem) — Inspectable compiler pipeline that turns bounded language into executable tool plans.
-- [reflect-js-mcp](https://github.com/PJensen/reflect-js-mcp) — MCP server for structural reflection, symbol lookup, dependency graphs, and architectural analysis.
-- [Signal Control Tower](https://github.com/PJensen/signal-control-tower) — Local Signal-to-Codex work dispatcher with durable queues, validation, and artifact delivery.
 - [JSHack](https://github.com/PJensen/JSHack) — Mobile-first browser roguelike and living systems-design laboratory.
 - [Graffiti](https://github.com/PJensen/grafitti) — Real-time collaborative drawing system built around exact scenes, spatial data, and durable world state.
+- [Signal Control Tower](https://github.com/PJensen/signal-control-tower) — Local Signal-to-Codex work dispatcher with durable queues, validation, and artifact delivery.
+- [blackstem](https://github.com/PJensen/blackstem) — Inspectable compiler pipeline that turns bounded language into executable tool plans.
+- [reflect-js-mcp](https://github.com/PJensen/reflect-js-mcp) — MCP server for structural reflection, symbol lookup, dependency graphs, and architectural analysis.
 - [Pixel Buzz Box](https://github.com/PJensen/Pixel_Buzz_Box) — Raspberry Pi Pico arcade survival game set in an infinite procedural world.
 
 
